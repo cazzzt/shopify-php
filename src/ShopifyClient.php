@@ -16,6 +16,7 @@ class ShopifyClient
         "order",
         "fulfillment",
         "checkout",
+        "collection",
         "fulfillment_event",
         "product",
         "shop",
